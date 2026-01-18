@@ -1,5 +1,7 @@
-# Efficient Frontier: Stock Time-Series Analysis & Portfolio Risk Modeling Project
-Exploration of stock market data using Yahoo Finance. It covers basic price analysis and portfolio concepts such as Moving Average Crossover Strategy, CAPM, and efficient frontier.
+# Efficient Frontier: Stock Time-Series Analysis & Portfolio Risk Modeling 
+This project focuses on applying data science and machine learning techniques to financial market analysis using stock data from Yahoo Finance. It covers a wide range of topics including data preprocessing, exploratory data analysis, technical indicators, trading strategy design, backtesting, portfolio optimization, and predictive modeling.
+
+The project explores moving averages, technical indicators, and trading strategies such as Moving Average Crossover and Mean Reversion. It incorporates machine learning models to forecast stock returns, evaluates their performance using multiple metrics, and visualizes the results. Additionally, it introduces core financial models such as the Capital Asset Pricing Model (CAPM) and the Efficient Frontier.
 
 ## Quick start
 - Open the notebook: `Stock Analysis Project.ipynb`.
